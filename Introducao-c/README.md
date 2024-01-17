@@ -31,6 +31,8 @@ gcc fibonacci.c main.c -o calculadora -std=c99 -Werror -Wall -Wextra -Wpedantic
 - -Wall:      Abilita vários warnings
 - -Wextra:    Abilita warnings adicionais não abilitados pelo "-Wall"
 - -Wpedantic: Mostra warnings caso o programa não siga o padrão ISO
+
+#### !!! lembrando que flags são opcionais !!!
 ##### main.c:
 ```c
 #include <stdio.h> // inclui os headers de input e output (significa "standard input-output")
