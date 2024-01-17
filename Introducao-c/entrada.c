@@ -9,7 +9,7 @@ int main(){
     printf("Digite a inicial do seu nome\n");
     scanf("%s", &inicialUsuario);
 
-    printf("Ola %c, voce digitou o numero: %d", inicialUsuario, valorUsuario);
+    printf("Ola %c, voce digitou o numero: %d\n", inicialUsuario, valorUsuario);
 
 }
 

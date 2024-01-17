@@ -13,7 +13,7 @@ int main(){
    double saldoDois = 0.12345678;
 
    printf("Imprimindo uma variavel %d \n", idade);
-   printf("Imprimindo outra variavel %c", letra);
+   printf("Imprimindo outra variavel %c\n", letra);
 
 
 
