@@ -12,3 +12,4 @@ int main(){
     printf("Ola %c, voce digitou o numero: %d", inicialUsuario, valorUsuario);
 
 }
+
