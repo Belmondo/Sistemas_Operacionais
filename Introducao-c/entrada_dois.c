@@ -6,12 +6,12 @@ int main(){
     int valorMultiplicado;
     printf("Digite um valor inteiro\n");
     scanf("%d", &primeiroValor);
-    
+
     printf("Digite um segundo valor inteiro\n");
     scanf("%d", &segundoValor);
 
     valorMultiplicado = primeiroValor*segundoValor;
 
     printf("Multiplicacao: %d", valorMultiplicado);
-    
+
 }
