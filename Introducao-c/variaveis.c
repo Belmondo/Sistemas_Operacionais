@@ -13,5 +13,5 @@ int main(){
 
    printf("Imprimindo uma variavel %d \n", idade);
    printf("Imprimindo outra variavel %c\n", letra);
-   // detalhe: acessar variáveis sem valores atribuídos pode retornar valores imprevisíveis (undefined behaviour)
+   // detalhe: acessar variáveis sem valores atribuídos pode retornar valores imprevisíveis (undefined behaviour).
 }

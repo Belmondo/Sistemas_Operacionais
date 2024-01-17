@@ -10,6 +10,5 @@ int main(){
     scanf("%s", &inicialUsuario);
 
     printf("Ola %c, voce digitou o numero: %d\n", inicialUsuario, valorUsuario);
-
 }
 
