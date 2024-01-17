@@ -13,6 +13,5 @@ int main(){
     valorMultiplicado = primeiroValor*segundoValor;
 
     printf("Multiplicacao: %d\n", valorMultiplicado);
-
 }
 

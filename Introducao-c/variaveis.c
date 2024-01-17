@@ -2,7 +2,6 @@
 
 //função principal
 int main(){
-
     //4 bytes
    int idade = 42;
     //1 byte
@@ -14,9 +13,4 @@ int main(){
 
    printf("Imprimindo uma variavel %d \n", idade);
    printf("Imprimindo outra variavel %c\n", letra);
-
-
-
-
-
 }
