@@ -28,8 +28,8 @@ gcc fibonacci.c main.c -o calculadora -std=c99 -Werror -Wall -Wextra -Wpedantic
 - -o: flag    Especificando o nome do binário final
 - -std=c99:   Especifica que o padrão "c99" vai ser usado
 - -Werror:    Todos os warnings são tratados como erros de compilação
-- -Wall:      Abilita vários warnings
-- -Wextra:    Abilita warnings adicionais não abilitados pelo "-Wall"
+- -Wall:      Habilita vários warnings
+- -Wextra:    Habilita warnings adicionais não habilitados pelo "-Wall"
 - -Wpedantic: Mostra warnings caso o programa não siga o padrão ISO
 
 #### !!! lembrando que flags são opcionais !!!
